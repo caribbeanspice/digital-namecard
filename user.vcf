@@ -3,9 +3,9 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Spice;Caribbean;;;
 FN: Caribbean  Spice 
-ORG:GovTech;
+ORG:Grocery Market;
 TITLE:International Food Store
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
+EMAIL;type=INTERNET;type=WORK;type=pref:caribbeanspice6@gmail.com
 TEL;type=WORK;type=VOICE:(503) 493 2737
 item1.ADR;type=WORK;type=pref:;;4516 NE 42nd Avenue;;;97211;Portland, Oregon
 item1.X-ABADR:sg
