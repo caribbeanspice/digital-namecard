@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
+N:Spice;Caribbean;;;
+FN: Caribbean  Spice 
 ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
+TITLE:International Food Store
 EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+TEL;type=WORK;type=VOICE:(503) 493 2737
+item1.ADR;type=WORK;type=pref:;;4516 NE 42nd Avenue;;;97211;Portland, Oregon
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.yelp.com/biz/caribbean-spice-portland
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
